@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Divya2163/lofi-study/static/css/main.b25b849c.css",
+    "main.js": "/Divya2163/lofi-study/static/js/main.1a5f1170.js",
+    "static/media/img8.png": "/Divya2163/lofi-study/static/media/img8.0efbb0751bfc12f474be.png",
+    "static/media/img4.png": "/Divya2163/lofi-study/static/media/img4.2994927cd15057d5047b.png",
+    "static/media/img10.png": "/Divya2163/lofi-study/static/media/img10.be1b6ba8639e2005b29f.png",
+    "static/media/img1.png": "/Divya2163/lofi-study/static/media/img1.58962f5f4069bf8af73c.png",
+    "static/media/img2.png": "/Divya2163/lofi-study/static/media/img2.a1376ea083057f4fe163.png",
+    "static/media/img6.png": "/Divya2163/lofi-study/static/media/img6.aea93a9a5bd1cfb7bc5b.png",
+    "static/media/img3.png": "/Divya2163/lofi-study/static/media/img3.cc681a5ad7b2c0e12121.png",
+    "static/media/img9.png": "/Divya2163/lofi-study/static/media/img9.782ea73aa16545f6e717.png",
+    "static/media/img5.png": "/Divya2163/lofi-study/static/media/img5.e92f88ddfb91e7c0ac62.png",
+    "static/media/img7.png": "/Divya2163/lofi-study/static/media/img7.866e08529baf2e341a99.png",
+    "index.html": "/Divya2163/lofi-study/index.html",
+    "main.b25b849c.css.map": "/Divya2163/lofi-study/static/css/main.b25b849c.css.map",
+    "main.1a5f1170.js.map": "/Divya2163/lofi-study/static/js/main.1a5f1170.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25b849c.css",
+    "static/js/main.1a5f1170.js"
+  ]
+}
